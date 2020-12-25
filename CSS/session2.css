@@ -1,3 +1,26 @@
+body{
+
+}
 h1{
-    color: rgb(140, 236, 115);
+    color: rgba(140, 236, 115, 0.5);
+    font-size: 50px;                /*(size word);*/
+    line-height: 1.5;               /*(do rong cua 1 line);*/
+    text-align: center;
+}
+p{  color: #222222;
+    font-size: 20px;                /*(size word);*/
+    line-height: 1.5;               /*(do rong cua 1 line);*/
+    text-align: justify;            /*(căn chữ);*/
+    width: 800px;                   /* (độ rộng của thẻ)*/
+    text-transform: uppercase;     /*( chuyển đổi kiểu chữ);*/
+    text-decoration: none;     /*(gạch chân, gạch ngang, none..);*/
+    font-family: Arial;
+    font-weight: bold;                 /* thin 100, lighter 300...bold 700, có thể thay bằng số.*/
+    background-color: #fafafa;
+}
+
+p1{
+    background-size: 500px;
+
+
 }
