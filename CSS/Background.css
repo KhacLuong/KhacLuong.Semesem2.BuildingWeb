@@ -1,0 +1,15 @@
+#div1{
+    width: 200px;
+    height: 15500px;
+    position: static;
+    left: 500px;
+    top: 200px;
+
+    background-color: lightgreen;
+
+}
+body{
+    background-image: url("../imgs/647234.jpg");
+    background-attachment: fixed;
+    background-size:cover ;
+}

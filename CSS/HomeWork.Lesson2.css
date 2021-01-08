@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+
+    text-align: center;
+}
+#div{
+     width: 800px;
+}
+#p1{
+    right: 10px;
+    top: 10px;
+
+}
