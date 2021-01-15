@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo-Form</title>
+    <link rel="stylesheet" href="CSS/Session.6-1.De-mo.Form.css">
+
+
+</head>
+<body>
+    <form method="post" action="#"> <!action: dia chi gui den, method get or post>
+        <input name="firstName" type="text" required placeholder="Nane"/>
+        <input name="your email" type="email" required placeholder="Email"/>
+        <input name="password" type="password" required placeholder="Password"/>
+        <input name="birthday" type="date" placeholder="Birthday"/>
+        <input name="Birthtime" type="time" placeholder="birthtime"/>
+        <input name="birthday" type="week" placeholder="Week of birthday"/>
+        <input name="birthday" type="month" placeholder="month of birthday"/>
+        <input name="Age" type="number" placeholder="Age"/>
+        <input name="color" type="color" placeholder="color"/>
+        <label>
+            <input name="gender" type="radio" checked value="Nam"/>Nam
+        </label>
+        <label>
+            <input name="gender" type="radio" value="Nu"/>Nu
+        </label>
+        <label>
+            <input name="confirm" checked type="checkbox"/>Confirm
+        </label>
+        <br/>
+        <select name="city">
+            <option> Vui long chon thanh pho</option>
+            <option selected value="HN">Ha noi</option>
+            <option>Hai phong</option>
+            <option>Da nang</option>
+            <option>Ho Chi Minh</option>
+
+        </select>
+        <select name="city">
+            <option> Vui long chon thanh pho</option>
+            <option>Ha noi</option>
+            <option>Hai phong</option>
+            <option>Da nang</option>
+            <option>Ho Chi Minh</option>
+        </select>
+        <br/>
+        <br/>
+        <br/>
+        <textarea name="content" placeholder="yourself describe" rows="5" cols="100">
+        </textarea><br/>
+        <button type="submit">Submid</button><br/>
+        <button type="reset">Reset</button><br/>
+        <button type="button">Button</button><br/>
+
+    </form>
+</body>
+</html>
