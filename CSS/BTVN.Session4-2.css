@@ -151,7 +151,8 @@ article .sidebar{
     padding-bottom: 10px;
     text-transform: capitalize;
 }
-.block.Social img{
+.block.Social i{
+    font-size: 40px;
     width: 35px;
     height: 35px;
     float: left;
