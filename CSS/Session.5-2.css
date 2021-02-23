@@ -40,10 +40,11 @@ body{
     list-style: none;
     margin-left: 10px;
 }
-.top ul li img{
+.top ul li i{
     width: 25px;
     height: 25px;
     margin-top: 25px;
+    font-size: 20px;
 }
 .top ul .search{
    padding-left: 30px;
@@ -142,11 +143,12 @@ body{
 .footer .container {
     background-color: #f5f4f4;
 }
-.footer .footertop img{
+.footer .footertop .linktop i{
     width: 20px;
     height: 20px;
     float: left;
-    margin:0 10px 0 20px;
+    margin:0 5px 0 25px;
+    font-size: 20px;
 }
 .footer .footertop{
     border-bottom: 2px gray solid;
@@ -160,6 +162,7 @@ body{
     float: left;
     color: #222222;
 }
+
 .footer .footerunder{
     margin:20px 380px;
     color:#222222;
