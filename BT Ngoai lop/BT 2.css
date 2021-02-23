@@ -1,0 +1,30 @@
+img{
+    max-width: 100%;
+}
+div{
+
+    background-color: #dd90ee;
+    float: left;
+
+    width: calc(25% - 40px);
+    border:1px solid blue;
+    height:380px;
+    padding: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 5px red;
+    border-radius:50%;
+    display:block;
+    overflow: hidden;
+    text-align:center;
+    opacity: 0.5;
+    transition: all 500ms;
+}
+div:hover{
+    background-color: aqua;
+    opacity: 1;
+}
+body{
+    background-image: url("../imgs/photo-1-1502673092989.jpg");
+    background-size: cover;
+}

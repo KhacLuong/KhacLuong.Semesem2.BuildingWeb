@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc25ef9c-3b2f-4b83-9b49-10e674be4c28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m994HZWGJBFHFzfA5ITE7pAC52" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\KhacLuong.Semesem2.BuildingWeb\BT Ngoai lop" />
+      <recent name="C:\Users\HP\KhacLuong.Semesem2.BuildingWeb" />
+      <recent name="C:\Users\HP\KhacLuong.Semesem2.BuildingWeb\CSS" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc25ef9c-3b2f-4b83-9b49-10e674be4c28" name="Default Changelist" comment="" />
+      <created>1608894747490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608894747490</updated>
+      <workItem from="1608894749015" duration="9795000" />
+      <workItem from="1609078772805" duration="3477000" />
+      <workItem from="1609126282268" duration="12436000" />
+      <workItem from="1609153426942" duration="9934000" />
+      <workItem from="1609257339862" duration="13730000" />
+      <workItem from="1609322620660" duration="331000" />
+      <workItem from="1609323009554" duration="10710000" />
+      <workItem from="1609508558316" duration="790000" />
+      <workItem from="1609509487007" duration="6691000" />
+      <workItem from="1609559093406" duration="1770000" />
+      <workItem from="1609570018928" duration="16349000" />
+      <workItem from="1609739054519" duration="12588000" />
+      <workItem from="1609756880788" duration="11674000" />
+      <workItem from="1609913605786" duration="11210000" />
+      <workItem from="1609930884179" duration="6850000" />
+      <workItem from="1610078520835" duration="20321000" />
+      <workItem from="1610103470552" duration="7397000" />
+      <workItem from="1610343528501" duration="10363000" />
+      <workItem from="1610358390114" duration="2217000" />
+      <workItem from="1610363864880" duration="6972000" />
+      <workItem from="1610461759004" duration="10096000" />
+      <workItem from="1610507431418" duration="4907000" />
+      <workItem from="1610513388076" duration="3678000" />
+      <workItem from="1610694144961" duration="7260000" />
+      <workItem from="1610708466531" duration="10549000" />
+      <workItem from="1610813844889" duration="1758000" />
+      <workItem from="1610819976820" duration="729000" />
+      <workItem from="1610945917961" duration="14330000" />
+      <workItem from="1610967184590" duration="11267000" />
+      <workItem from="1610988704430" duration="3662000" />
+      <workItem from="1611079228945" duration="6750000" />
+      <workItem from="1611124925922" duration="9952000" />
+      <workItem from="1611135758268" duration="189000" />
+      <workItem from="1611138661245" duration="12651000" />
+      <workItem from="1611158915581" duration="11151000" />
+      <workItem from="1611203436396" duration="30738000" />
+      <workItem from="1611295005617" duration="13438000" />
+      <workItem from="1611313474205" duration="11563000" />
+      <workItem from="1611479178055" duration="665000" />
+      <workItem from="1611501321329" duration="11341000" />
+      <workItem from="1611552121129" duration="13458000" />
+      <workItem from="1611570958333" duration="9413000" />
+      <workItem from="1611632500274" duration="2079000" />
+      <workItem from="1611680659604" duration="1331000" />
+      <workItem from="1611728524844" duration="11772000" />
+      <workItem from="1611744635062" duration="10995000" />
+      <workItem from="1611764850809" duration="4389000" />
+      <workItem from="1611823107224" duration="1401000" />
+      <workItem from="1611831080758" duration="5235000" />
+      <workItem from="1611837384760" duration="2073000" />
+      <workItem from="1611839641449" duration="3485000" />
+      <workItem from="1611897295326" duration="7388000" />
+      <workItem from="1612073184815" duration="5117000" />
+      <workItem from="1612097090151" duration="45000" />
+      <workItem from="1612098225747" duration="19000" />
+      <workItem from="1613990546911" duration="4306000" />
+      <workItem from="1614051813847" duration="2422000" />
+    </task>
+    <task id="LOCAL-00001" summary="up code first time">
+      <created>1608895172975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608895172975</updated>
+    </task>
+    <task id="LOCAL-00002" summary="up code seconds time">
+      <created>1608896233371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608896233371</updated>
+    </task>
+    <task id="LOCAL-00003" summary="up code seconds time">
+      <created>1608896351527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608896351527</updated>
+    </task>
+    <task id="LOCAL-00004" summary="up code secondef time">
+      <created>1608898145536</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608898145536</updated>
+    </task>
+    <task id="LOCAL-00005" summary="up code secondef time">
+      <created>1608902370719</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608902370719</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HomeWork.Lesson3.CSS">
+      <created>1609757447142</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609757447142</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HomeWork.Lesson5.CSS">
+      <created>1610098256932</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610098256932</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HomeWork.Lessonjn">
+      <created>1610699399175</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610699399175</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HomeWork.Lesson 5-1">
+      <created>1610701215377</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610701215377</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HomeWork.Lesson 5-1">
+      <created>1610709026269</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610709026269</updated>
+    </task>
+    <task id="LOCAL-00011" summary="header-pll's coffee">
+      <created>1611681664777</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611681664777</updated>
+    </task>
+    <task id="LOCAL-00012" summary="khac luong">
+      <created>1614053044610</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614053044610</updated>
+    </task>
+    <task id="LOCAL-00013" summary="khac luong">
+      <created>1614053803055</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1614053803055</updated>
+    </task>
+    <task id="LOCAL-00014" summary="khac luong">
+      <created>1614054022584</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1614054022584</updated>
+    </task>
+    <task id="LOCAL-00015" summary="khac luong">
+      <created>1614054092560</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1614054092560</updated>
+    </task>
+    <task id="LOCAL-00016" summary="khac luong">
+      <created>1614054204296</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614054204296</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up code first time" />
+    <MESSAGE value="up code seconds time" />
+    <MESSAGE value="up code secondef time" />
+    <MESSAGE value="HomeWork.Lesson3.CSS" />
+    <MESSAGE value="HomeWork.Lesson5.CSS" />
+    <MESSAGE value="HomeWork.Lessonjn" />
+    <MESSAGE value="HomeWork.Lesson 5-1" />
+    <MESSAGE value="header-pll's coffee" />
+    <MESSAGE value="khac luong" />
+    <option name="LAST_COMMIT_MESSAGE" value="khac luong" />
+  </component>
+</project>

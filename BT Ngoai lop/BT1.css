@@ -1,0 +1,32 @@
+body{
+    background-color: lightslategray;
+    background-image: url("../imgs/photo-1-1502673092989.jpg");
+    background-repeat: no-repeat;
+    background-size: cove;
+    text-align: center;
+}
+h1{
+    color: orange;
+    font-size: 50px;
+    line-height: 2.5;
+    text-align:center;
+    background-color: cadetblue;
+    width: 50%;
+}
+p{
+    background-color: #dd90ee;
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+    width: 800px;
+    text-transform: none;
+    font-weight: bold;
+    box-sizing: content-box;
+
+}
+img{
+    background-color:red;
+    max-width: 100%;
+    text-align:center;
+}
