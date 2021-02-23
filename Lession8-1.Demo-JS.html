@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo-JS</title>
+
+</head>
+<body>
+    <script type="text/javascript" src="Java-Script/Lession8-1.Demo-Js.js"></script>
+    <script type="text/javascript">
+        var gt = giaithua(10);
+        console.log("giai thua cua 10=" +gt);
+        var x;
+        x=10;
+        x++;
+        x+=10;
+        console.log(x);
+        x= "hello World";
+        console.log(x);
+        var y=20;
+        var z =15;
+        console.log(z+y);
+        console.log(x+y);
+        console.log(y +x);
+        console.log(y +z+x);
+        var t = 17;
+        console.log(" Xin chao cac ban, toi nam nay" +t+"tuoi")
+        if(t>=18){
+            console.log("chuc mung ban da du 18 tuoi");
+        }else {
+            console.log(" ban chua du 18 tuoi");
+        }
+        switch (t){
+            case 18: console.log("ban vua tron 18 tuoi"); break;
+            default:console.log("ban khong phai 18 tuoi");
+        }
+        if(t>18){
+
+        }else if(t==18){
+
+        }else{
+
+        }
+        for(var i=1; i<10;i+=2){
+            console.log(i);
+        }
+        var arr;
+        arr = [];
+        arr[0]=1;
+        arr[1]=15;
+        arr[2] = "xin chao";
+        arr[3] =[];
+        arr[3][0]=1;
+        arr[3][1]="hello";
+        arr[3][2]=[];
+        var arr2 =[];
+        arr2.push(19);
+        arr2.push(5);
+        arr2.push("xin chao");
+        var arr3 =[];
+        for(var i=0;i<10; i++){
+            arr3.push(i+10);
+        }
+        arr3.push(77);
+////// khai bao ham///////////////////////////////////
+        inketqua(6,9);
+        var k = tinhtong(10,12);
+        console.log("tong: " +k);
+
+        function tinhtong(a,b){
+            var c= a+b;
+            return c;
+        }
+        function inketqua(a,b){
+            console.log(a+b);
+        }
+        //alert(" cam tre em duoi 18 tuoi");// void
+        //confirm("ba da chac chan");// tra ve true hoac false
+        //prompt("nhap ten nguoi dung");// tra ve String
+        //setTimeout(function (){
+            //alert(" xin chao cac ban");
+            //}, 2000);
+        //setInterval(function (){
+            //alert("xin chao cac ban");
+        //},5000)
+        var c=0;
+        var si =setInterval(function (){
+            c++;
+            alert("Xin chao cac ban");
+            if(c>2){
+                clearInterval(si);
+            };
+        },3000);
+///////////////// vi du ve bat dong bo///////////// //
+        var kq =10;
+        //cong viec 1
+        setTimeout(function (){
+            kq+=10;// kq =20
+        }, 2000);
+        // cong viec 2
+        alert(kq);//alert  van la kq =10
+    </script>
+</body>
+</html>

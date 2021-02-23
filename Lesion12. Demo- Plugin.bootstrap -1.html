@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo-plugin-bootstrap</title>
+    <link rel="stylesheet" href="CSS/Lession.12-Demo-plugin-bootstrap-1.css">
+    <link rel="stylesheet" href="Lib/owl.carousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="Lib/owl.carousel/owl.theme.default.min.css">
+
+
+</head>
+<body>
+
+    <section class="col-md-12">
+        <div class="container">
+
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                Launch demo modal
+            </button>
+        </div>
+
+    </section>
+    <div class="dropdown">
+        <button id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Dropdown trigger
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dLabel">
+            <li> Ha tay</li>
+            <li> ha nam</li>
+            <li> ha noi</li>
+        </ul>
+    </div>
+    <div id="slider" class="nivoSlider">
+
+        <img src="images/toystory.jpg" data-thumb="images/toystory.jpg" alt="" />
+
+        <img src="images/up.jpg" data-thumb="images/up.jpg" alt="" title="This is an example of a caption" />
+
+        <img src="images/walle.jpg" data-thumb="images/walle.jpg" alt="" data-transition="slideInLeft" />
+
+        <img src="images/nemo.jpg" data-thumb="images/nemo.jpg" alt="" title="#htmlcaption" />
+
+    </div>
+    <section class="col-md-12">
+        <div class="container">
+            <div class="owl-carousel owl-theme">
+                <div class="item"><img src="imgs/photo-1-1502673092989.jpg" height="335" width="345"/></div>
+                <div class="item"><img src="imgs/photo-1-1502673092989.jpg" height="335" width="345"/></div>
+                <div class="item"><img src="imgs/photo-1-1502673092989.jpg" height="335" width="345"/></div>
+                <div class="item"><img src="imgs/photo-1-1502673092989.jpg" height="335" width="345"/></div>
+                <div class="item"><img src="imgs/photo-1-1502673092989.jpg" height="335" width="345"/></div>
+                <div class="item"><img src="imgs/photo-1-1502673092989.jpg" height="335" width="345"/></div>
+                <div class="item"><img src="imgs/photo-1-1502673092989.jpg" height="335" width="345"/></div>
+                <div class="item"><img src="imgs/photo-1-1502673092989.jpg" height="335" width="345"/></div>
+
+            </div>
+        </div>
+    </section>
+
+    <link rel="stylesheet" href="../themes/default/default.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="../nivo-slider.css" type="text/css" media="screen" />
+    <script src="Lib/Jquery/jquery-3.5.1.min.js"></script>
+    <script src="Lib/Bootstrap/js/bootstrap.js"></script>
+    <script src="Lib/owl.carousel/owl.carousel.min.js"></script>
+    <script type="text/javascript">
+        $('.owl-carousel').owlCarousel({
+            loop:true,
+            margin:10,
+            nav:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:5
+                }
+            }
+        })
+    </script>
+
+</body>
+</html>

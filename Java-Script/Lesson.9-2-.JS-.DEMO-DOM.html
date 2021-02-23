@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DEMO-DOM</title>
+    <link rel="stylesheet" href="Lesson.9.JS-Demo-Dom.css">
+
+</head>
+<body>
+    <h1 id="heading">Xin chao</h1>
+    <ol id="danhsachnguoiyeu">
+
+    </ol>
+    <h2><span id="min">10</span>:<span id="sec">00</span></h2>
+    <script type="text/javascript">
+        var h = document.getElementById("heading");
+        var ol = document.getElementById("danhsachnguoiyeu");
+        // setInterval(function(){
+        //     if (h.innerText == "Xin chao")
+        //      h.innerText="Xin Chao Cac ban";
+        //     else
+        //         h.innerText = "Xin chao";
+        //
+        //  }, 3000);
+      /*  var dsach =[];
+        setInterval(function (){
+        //h.innerHTML = "<p>Xin Chao ca nha</p>";
+        //dsach.push("loan", "Chuc");
+        var g =prompt("ten ban gai moi");
+        ol.innerHTML+="<li>"+g+"</li>";
+        dsach.push(g);
+            console.log(dsach);
+        },3000);*/
+
+        setTimeout(function (){
+            h.style.color ="orange";
+            h.style.fontSize = "50px";
+        },3000);
+        var min = document.getElementById("min");
+        var sec = document.getElementById("sec");
+        var m = 10;
+        var s =0;
+        var timer = setInterval(function (){
+            /*if(m>=10){
+                min.innerText = m;
+            }else{
+                 min.innerText = "0"+m;
+            }
+            if(s>=10){
+                sec.innerText = s;
+            }else{
+                sec.innerText = "0" +s;
+            }*/
+            min.innerText = m>=10?m:"0"+m;
+            sec.innerText = s>=10?s:"0"+s;
+            s--;
+            if(s<0){
+                m--;
+                s=59
+            }
+
+            if(m<0){
+                clearInterval(timer);
+                console.log("boom boom boom...");
+            }
+
+        },10);
+
+    </script>
+</body>
+</html>

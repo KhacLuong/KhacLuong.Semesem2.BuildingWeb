@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="Lib/Bootstrap/css/bootstrap.css">
+
+</head>
+<body>
+    <section class="col-md-12">
+        <div class="container">
+            <div class="row weathe">
+
+
+            </div>
+        </div>
+    </section>
+    <script src="../Lib/Jquery/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript">
+        function loadData(){
+            $.ajax({
+                url:"http://api.openweathermap.org/data/2.5/weather?q=hanoi,vn&appid=09a71427c59d38d6a34f89b47d75975c&units=metric",
+                method:"get",
+                data:{},
+                success: function (rs){
+                    var weathe = rs;
+                    var x=" <div>\n" +
+                        "                    <h1 class=\"area\"> "+weathe.name+weathe.sys.country+"</h1>\n" +
+                        "                    <h3 class=\"temp\">Temp: "+weathe.main.temp+"</h3>\n" +
+                        "                    <h3 class=\"humid\">Humidity: "+weathe.main.humidity+"</h3>\n" +
+                        "                    <h3 class=\"wind\"> Wind: "+weathe.wind.speed+"</h3>\n" +
+                        "                    <h3 class=\"local\"> Corrd: \n" +
+                        "                        <p class=\"lon\"> Lon: "+weathe.coord.lon+"</p>\n" +
+                        "                        <p class=\"lat\">Lat: "+weathe.coord.lat+" </p>\n" +
+                        "                    </h3>\n" +
+                        "                </div>";
+
+                    $(".weathe").append(x);
+                }
+            })
+        }
+        loadData();
+    </script>
+</body>
+</html>
