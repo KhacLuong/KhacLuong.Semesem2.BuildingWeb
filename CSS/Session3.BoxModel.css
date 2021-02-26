@@ -1,7 +1,7 @@
 div{
     float: left;    /* don cho het mot dong hoac khong du cbho se xuong dong*/
     width: 250px;
-    width: calc(25% - 44px); /* cach de lam cho xếp dc cả 4 thẻ vào 1 dòng
+    width: calc(25% - 22px); /* cach de lam cho xếp dc cả 4 thẻ vào 1 dòng
                             25% của thẻ cha trừ đi độ rộng của margin padding va border*/
     height: 400px;
     border: 1px solid black;
@@ -19,7 +19,8 @@ div{
     opacity: 80%;     /* độ trong suốt*/
     transition: background-color,opacity 300ms; /* giúp sự chuyển đổi sang trạng thái
                                                    hover mượt mà hơn*/
-
+    display: block;
+    overflow: hidden;
 }
 div:hover{
     background-color: green;

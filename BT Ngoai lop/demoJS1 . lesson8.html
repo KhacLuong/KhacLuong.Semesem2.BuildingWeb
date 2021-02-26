@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo JS</title>
+
+</head>
+<body>
+    <script type="text/javascript" src="DEmo JS1.js"></script>
+    <script type="text/javascript">
+        var gt = giaithua(5);
+        console.log("giai thua cua 5 la " +gt);
+        var x;
+        x= 10;
+        x++; console.log(x);
+        x= "hello world";
+        console.log(x);
+        var y =20;
+        var z=15;
+        console.log(y+z);
+        console.log(x+y);
+        console.log(y+x);
+        console.log(y+z +x);
+        var t=28;
+        console.log("xin chao cac ban, toi nam nay "+t+"tuoi");
+        if(t>=18){
+            console.log("chuc mung ban da thanh nien");
+        }else{
+            console.log("ban dnang ow tuoi vi thanh nien");
+        }
+        switch (t) {
+            case 18: console.log("ban dang 18 tuoi"); break;
+            default: console.log("ban khong phai 18 tuoi");
+        }
+        var arr;
+        arr=[];
+        arr[0]=1;
+        arr[2] ="xin chao";
+        arr[3] =[];
+        arr[3][0] =6;
+        arr[3][1]= 'hi';
+        console.log(arr);
+        var arr2 =[];
+        arr2.push(19);
+        arr2.push(5);
+        arr2.push("xin chao");
+        console.log(arr2);
+        var arr3 =[];
+        for(var i=0; i<10; i = i+2){
+            arr3.push(i+10)
+        }
+        arr3.push(69);
+        console.log(arr3);
+        // alert("cam tre em duoi 18");
+        // confirm(" ban dax chac chan");
+        // prompt("nha ten ng dung");
+        // setTimeout(function (){
+        //     alert("xin chao cac ban");
+        // }, 3000);
+        // var c=0;
+        // var si =setInterval(function (){
+        //     c++;
+        //     alert("xin chao cac ban");
+        //     if(c>3){
+        //         clearInterval(si);
+        //     }
+        //
+        // }, 2000);
+        console.log(tinhtong(6,9));
+        inketqua(6,9);
+        function tinhtong(a,b){
+           var c =a+b;
+           return c;
+        }
+        function inketqua(a,b){
+            console.log(a+b);
+        }
+    </script>
+</body>
+</html>
