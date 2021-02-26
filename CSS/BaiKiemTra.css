@@ -48,3 +48,10 @@ body {
     font-weight: bold;
     float: left;
 }
+.section.main .sidebar-left{
+    width: 100px;
+    float: left;
+}
+.section.main .content{
+    float: left;
+}

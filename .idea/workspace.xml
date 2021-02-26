@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc25ef9c-3b2f-4b83-9b49-10e674be4c28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaiKiemTra.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiKiemTra.html" afterDir="false" />
-    </list>
+    <list default="true" id="dc25ef9c-3b2f-4b83-9b49-10e674be4c28" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +125,7 @@
       <workItem from="1614090530237" duration="72000" />
       <workItem from="1614144834337" duration="1201000" />
       <workItem from="1614307496144" duration="21422000" />
-      <workItem from="1614337941249" duration="5934000" />
+      <workItem from="1614337941249" duration="6245000" />
     </task>
     <task id="LOCAL-00001" summary="up code first time">
       <created>1608895172975</created>
@@ -305,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614343188924</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="khac luong">
+      <created>1614344037292</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1614344037292</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
